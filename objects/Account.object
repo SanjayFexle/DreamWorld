@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>DemoName__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Please Enter Name Like &quot;Sanjay Rawat&quot;</inlineHelpText>
+        <label>DemoName</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>
