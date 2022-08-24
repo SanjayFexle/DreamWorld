@@ -154,23 +154,28 @@
     <enableStreamingApi>false</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>FirstName__c</fullName>
+        <fullName>DreamWorldField__c</fullName>
         <externalId>false</externalId>
-        <label>FirstName</label>
-        <length>40</length>
+        <label>DreamWorldField</label>
+        <length>45</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>DemoObject</label>
+    <label>DreamWorld</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
-        <label>DemoObject Name</label>
+        <label>DreamWorld Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DemoObjects</pluralLabel>
+    <pluralLabel>DreamWorld</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
